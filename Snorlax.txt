@@ -1,0 +1,4 @@
+Pokemon Dormilon
+Tipo:Normal
+Ataques: bostazo, descanso, comesueños, recuperacion 
+Vida: 500
